@@ -29,4 +29,4 @@ build-essential git subversion python gawk unzip libssl-dev zlib1g-dev libncurse
 * ar71xx-nand - WNDR4300
 * x86-generic - Klassischer PC (32bit)
 * x86-64 - Klassischer PC (64bit)
-* x86-kvm_guest - Viretuelle Maschienen
+* x86-kvm_guest - Viretuelle Maschinen
